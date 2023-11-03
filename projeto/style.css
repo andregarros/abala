@@ -12,6 +12,7 @@ body{
    background: url(imagens/abala1.jpg) no-repeat;
    background-size: cover;
    position: center center;
+   background-attachment: fixed;
 
 }
 
@@ -69,7 +70,7 @@ header > p{
     border-radius: 10px 30px;
     padding: 15px 10px;
     margin: auto;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     font-weight: bold;
     font-size: 1.2em;
     
