@@ -11,14 +11,14 @@ body{
    
    background: url(imagens/abala1.jpg) no-repeat;
    background-size: cover;
-  
+   height: 80vh;
+
 
 }
 
 header{
     text-align: center;
     margin-top: 80px;
-   
     
 }
 #icone{
@@ -68,7 +68,7 @@ header > p{
     background-color: #ffffffbd;
     width: 300px;
     border-radius: 10px 30px;
-    padding: 15px 10px;
+    padding: 10px 10px;
     margin: auto;
     margin-bottom: 20px;
     font-weight: bold;
