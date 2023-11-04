@@ -59,11 +59,13 @@ header > p{
     text-align: center;
     padding-top: 20px ;
     list-style: none;
-    
-    
-
 }
-.links > a li{
+.designer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.designer > a li{
     font-family: 'Open Sans', sans-serif;
     background-color: #ffffffbd;
     width: 300px;
@@ -79,9 +81,11 @@ header > p{
 a{
     text-decoration: none;
     color: black;
+    
 }
 
-.links > a li:hover{
+
+.designer > a li:hover{
     background-color: white;
     box-shadow: 0px 0px 30px white ;
     transition: 0.1s;
