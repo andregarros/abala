@@ -8,10 +8,10 @@
     
 }
 body{
-   background: url(imagens/abala1.jpg) no-repeat center;
+   background: url(imagens/abala1.jpg) no-repeat top;
    background-size: contain;
    background-attachment: fixed;
-   max-width: 1080px;
+   max-width: 100%;
    
 }
 
